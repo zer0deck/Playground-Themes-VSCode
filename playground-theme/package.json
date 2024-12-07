@@ -1,0 +1,35 @@
+{
+  "name": "playground-theme-light",
+  "displayName": "Playground Theme Light",
+  "description": "This is very colorfull theme. Made it for personal use, because I like bright colors. Hope you will like it too!",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.95.0"
+  },
+  "publisher": "zer0deck",
+  "categories": [
+    "Themes"
+  ],
+  "icon": "./icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Playground Theme Light",
+        "uiTheme": "vs",
+        "path": "./themes/playground-theme-light.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "https",
+    "url": "https://github.com/zer0deck/Playground-Themes-VSCode.git"
+  },
+  "license": "MIT",
+  "pricing": "Free",
+  "keywords": [
+    "theme",
+    "bright",
+    "colorfull",
+    "light"
+  ]
+}
